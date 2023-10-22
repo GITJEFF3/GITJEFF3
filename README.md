@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 
 <!---
-GITJEFF3/GITJEFF3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+GITJEFF3/GITJEFF3 is a ✨ special ✨ repository because its `README.md` (this file) 
+
+(ETH wallet 0xB143E7D26E1AdF86D59499Ef19202c466F689f8C
+
+https://play.google.com/store/apps/details?id=com.zqgames.topparty&referrer=utm_uid=1635773
 --->
